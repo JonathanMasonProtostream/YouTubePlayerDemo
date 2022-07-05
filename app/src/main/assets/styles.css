@@ -1,0 +1,4 @@
+/* Hide more videos panel. */
+.ytp-pause-overlay {
+  display: none !important;
+}
